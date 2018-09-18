@@ -1,0 +1,41 @@
+body{
+background-color: lightblue;
+}
+body{
+  color: 000080
+}
+p{
+  font-family: 'Acme', sans-serif;
+}
+
+a:hover {
+  color:yellow;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+h1{font-family: 'Acme', sans-serif;
+font-family: 'Special Elite', cursive;}
+p {
+    font-size: 20px;
+}
+h1{
+font-size: 50px}
+h1 {
+    text-align: center;
+}
+body {
+    margin-top: 75px;
+    margin-bottom: 75px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+table, tr {
+   border: 5px solid navy;
+}
+li{
+  font-family: 'Acme', sans-serif;
+font-size: 20px}
