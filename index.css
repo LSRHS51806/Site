@@ -1,0 +1,19 @@
+body{
+background-color: lightblue;
+}
+h1{text-align: center}
+a:hover {
+  color:yellow;
+}
+table{
+  font-family: 'Acme', sans-serif;
+}
+table, tr {
+   border: 5px solid navy;
+}
+body {
+    margin-top: 75px;
+    margin-bottom: 75px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
